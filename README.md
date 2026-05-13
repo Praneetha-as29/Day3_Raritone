@@ -59,18 +59,5 @@ python practice_code/pose.py
 
 ---
 
-## Project Structure
-
-Raritone/
-│
-├── day3/
-│ ├── practice_code
-│ ├── research_notes
-│ ├── screenshots
-│ └── submission_document
-
-
----
-
 ## Note
 Body measurements are approximate and based on pixel distances, not real-world units.
